@@ -10,6 +10,7 @@ This mobile application was built using Ionic Angular and Capacitor, making it a
 
 - User authentication with Firebase
 - Property browsing and search functionality
+- Properties fetch from Zyla labs.
 - Property details with map integration
 - Booking system for property viewings
 - User profile management
@@ -163,4 +164,4 @@ The app integrates with:
 
 ## Contact and Support
 
-For any issues or questions, please contact the development team at support@goexploree.com
+For any issues or questions, please contact me at sherazhussainofficial1@gmail.com
